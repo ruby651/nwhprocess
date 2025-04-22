@@ -11,7 +11,7 @@ For process analysis and improvement, the following tools and methodologies were
 - **Lean Six Sigma:** Applied **Waste and Value-added Analysis** to evaluate and streamline activities, identifying areas for improvement.
 - **Fishbone Diagram:** Used to conduct **root cause analysis**, uncovering underlying issues affecting process performance.
 - **Pick Chart:** Implemented a **Pick Chart** to prioritise process changes based on impact and feasibility, ensuring focus on high-value improvements.
-- **BPR & BPM:** Leveraged **Business Process Reengineering** (BPR) and **Business Process Management** (BPM) to define and implement to-be process improvements for greater efficiency and effectiveness.
+- **BPR & HPR:** Leveraged **Business Process Reengineering** (BPR) and **Heuristic Process Redesign** (HPR) to define and implement to-be process improvements for greater efficiency and effectiveness.
 
 ## Key Findings
 1. Inefficient Batch-Oriented Approach and Ineffective Use of Human Resources Causing Delays
